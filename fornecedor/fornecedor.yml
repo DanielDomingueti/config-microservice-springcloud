@@ -1,7 +1,7 @@
 spring:
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     password: Daniel0017
